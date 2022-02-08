@@ -7,7 +7,7 @@ Based on:
 - npm 6.14.16
 - v12.22.10
 
-Crrated and tested on:
+Created and tested on:
 - Linux Mint 20.2
 - Docker 20.10.12
 - Docker Compose 1.29.2
