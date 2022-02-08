@@ -5,7 +5,7 @@ BigCommerce Stencil image.
 Based on:
 - Ubuntu 18.04
 - npm 6.14.16
-- v12.22.10
+- Node v12.22.10
 
 Created and tested on:
 - Linux Mint 20.2
